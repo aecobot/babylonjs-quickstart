@@ -26,7 +26,8 @@
 - Tree-shaking to reduce bundle size
 - Inspector's import only for DEV mode to reduce bundle size
 
-Originally from https://github.com/eldinor/bp800/tree/main
-Based on old good https://github.com/minibao/babylon-vite
+Originally from: https://github.com/eldinor/bp800/tree/main
+
+Based on: https://github.com/minibao/babylon-vite
 
 **Made by https://babylonpress.org/**
