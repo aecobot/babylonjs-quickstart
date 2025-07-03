@@ -1,5 +1,5 @@
 # OS specific files
-.DS_Store/
+.DS_Store
 Thumbs.db
 
 # Visual Studio Code configuration
